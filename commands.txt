@@ -1,0 +1,3 @@
+>>  cd "c:\Users\Microsoft\Documents\Gurukul_new-main\Gurukul_new-main\Backend" ; .\start_all_services.bat {start backend}
+
+cd "c:\Users\Microsoft\Documents\Gurukul_new-main\Gurukul_new-main\new frontend"; npm run dev
